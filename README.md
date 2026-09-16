@@ -2,9 +2,9 @@
 
 ### Hi, I'm Avidan 👋
 
-Computer Science student and software developer focused cybersecurity research. Experienced with production backend systems, vulnerability analysis, and systems programming.
+Computer Science student and software developer focused cybersecurity research. Experienced with production backend systems and vulnerability analysis.
 
-- 🎯 **Looking for:** Student / Junior positions in Backend Development, Systems Engineering, or Security Research.
+- 🎯 **Looking for:** Student / Junior positions in Security Research,Backend Development, or Systems Engineering.
 - 🛠️ **Systems & Security:** C, C++, x86/x64 Assembly, Linux, Reverse Engineering (IDA Pro, x64dbg), Network Analysis (Wireshark), 
 - ⚙️ **Backend & Cloud:** Python , TypeScript / Node.js, Docker, MySQL, Redis
 
